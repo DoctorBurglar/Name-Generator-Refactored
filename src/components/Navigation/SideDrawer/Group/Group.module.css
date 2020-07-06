@@ -1,0 +1,38 @@
+.Group {
+  padding-top: 50px;
+  overflow: auto;
+}
+
+.MainGroupContainer {
+  border: 1px solid black;
+  margin: 5px;
+}
+
+.MainGroupNameButtonContainer {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.GroupList {
+  border: 1px solid black;
+  margin: 5px;
+}
+
+.GroupList:hover {
+  cursor: pointer;
+}
+
+.NameButtonContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.GroupName {
+  width: 70%;
+}
+
+.MainGroupTitle {
+  text-align: center;
+  margin: auto;
+}

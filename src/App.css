@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.display-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.cockpit {
+  margin: 15px 20px;
+}

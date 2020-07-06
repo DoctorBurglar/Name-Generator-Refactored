@@ -1,0 +1,9 @@
+.Background {
+  position: fixed;
+  background-color: rgba(141, 129, 129, 0.4);
+  left: 0;
+  top: 0;
+  z-index: 100;
+  width: 100vw;
+  height: 100vh;
+}

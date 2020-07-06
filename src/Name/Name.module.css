@@ -1,0 +1,19 @@
+.NameList {
+  width: 50%;
+  margin: auto;
+  border: 2px solid black;
+  box-shadow: 5px, 6px, gray;
+}
+
+.Name:hover {
+  cursor: pointer;
+}
+
+.Editor {
+  padding-bottom: 5px;
+}
+
+.Chosen {
+  background-color: salmon;
+  display: none;
+}
